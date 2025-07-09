@@ -1,0 +1,6 @@
+{
+  "name": "FaGe Quiz App",
+  "description": "A simple quiz application for FaGe (Fachfrau/Fachmann Gesundheit) students to test their knowledge. The app presents 10 random questions from a larger pool and provides results with explanations at the end.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
